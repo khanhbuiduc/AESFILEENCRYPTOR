@@ -1,0 +1,14 @@
+C:\Users\HP PC\source\repos\AESFileEncryptor\bin\Debug\net8.0\AESFileEncryptor.exe
+C:\Users\HP PC\source\repos\AESFileEncryptor\bin\Debug\net8.0\AESFileEncryptor.deps.json
+C:\Users\HP PC\source\repos\AESFileEncryptor\bin\Debug\net8.0\AESFileEncryptor.runtimeconfig.json
+C:\Users\HP PC\source\repos\AESFileEncryptor\bin\Debug\net8.0\AESFileEncryptor.dll
+C:\Users\HP PC\source\repos\AESFileEncryptor\bin\Debug\net8.0\AESFileEncryptor.pdb
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.AssemblyInfoInputs.cache
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.AssemblyInfo.cs
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.dll
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\refint\AESFileEncryptor.dll
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.pdb
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.genruntimeconfig.cache
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\ref\AESFileEncryptor.dll
