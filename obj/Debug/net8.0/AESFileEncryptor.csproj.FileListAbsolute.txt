@@ -12,3 +12,4 @@ C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\refint\AESFileEncr
 C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.pdb
 C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.genruntimeconfig.cache
 C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\ref\AESFileEncryptor.dll
+C:\Users\HP PC\source\repos\AESFileEncryptor\obj\Debug\net8.0\AESFileEncryptor.sourcelink.json
